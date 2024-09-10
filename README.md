@@ -1,3 +1,4 @@
+# Vehicle-Accident-Detection-and-Tracking-System
 Embedded systems project on Vehicle Accident Detection and Tracking using Tiva TM4C123GXL
 
 This repository aims at building an embedded system that can be installed in a vehicle , through which when an accident is detected, sends an alert message to a registered mobile number along with the google maps link of the accident location. 
@@ -17,6 +18,3 @@ This repository aims at building an embedded system that can be installed in a v
   1)Vibration Sensor : VCC=>3.3V , GND=>GND , D0=>PF4
   <br>2)GSM module : VCC=>5V , TX=>PB0 (UART1 RX) , RX=>PB1 (UART1 TX) , GND=>GND
   <br>3)GPS module : VCC=>5V , TX=>PE4 (UART5 RX) , RX=>PE5 (UART5 TX) , GND=>GND
-  
- 
-# Vehicle-Accident-Detection-and-Tracking-System
